@@ -1,0 +1,406 @@
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/obj/Debug/net9.0/AuctionManagement.API.csproj.AssemblyReference.cache
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/obj/Debug/net9.0/rpswa.dswa.cache.json
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/obj/Debug/net9.0/AuctionManagement.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/obj/Debug/net9.0/AuctionManagement.API.AssemblyInfoInputs.cache
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/obj/Debug/net9.0/AuctionManagement.API.AssemblyInfo.cs
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/obj/Debug/net9.0/AuctionManagement.API.csproj.CoreCompileInputs.cache
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/obj/Debug/net9.0/AuctionManagement.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/obj/Debug/net9.0/AuctionManagement.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/appsettings.Development.json
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/appsettings.json
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/AuctionManagement.API.staticwebassets.endpoints.json
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/AuctionManagement.API
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/AuctionManagement.API.deps.json
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/AuctionManagement.API.runtimeconfig.json
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/AuctionManagement.API.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/AuctionManagement.API.pdb
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/AutoMapper.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Azure.Core.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Azure.Identity.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Humanizer.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Microsoft.Data.SqlClient.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Microsoft.Extensions.Identity.Core.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Microsoft.Identity.Client.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Microsoft.SqlServer.Server.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Microsoft.Win32.SystemEvents.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Mono.TextTemplating.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Newtonsoft.Json.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/System.ClientModel.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/System.CodeDom.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/System.Composition.Convention.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/System.Composition.Hosting.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/System.Composition.Runtime.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/System.Drawing.Common.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/System.Memory.Data.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/System.Net.WebSockets.WebSocketProtocol.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/System.Runtime.Caching.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/System.Security.Permissions.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/System.Windows.Extensions.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/obj/Debug/net9.0/rjimswa.dswa.cache.json
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/obj/Debug/net9.0/scopedcss/bundle/AuctionManagement.API.styles.css
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/obj/Debug/net9.0/staticwebassets.build.json
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/obj/Debug/net9.0/staticwebassets.build.json.cache
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/obj/Debug/net9.0/staticwebassets.development.json
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/obj/Debug/net9.0/AuctionM.AEE33FD5.Up2Date
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/obj/Debug/net9.0/AuctionManagement.API.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/obj/Debug/net9.0/refint/AuctionManagement.API.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/obj/Debug/net9.0/AuctionManagement.API.pdb
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/obj/Debug/net9.0/AuctionManagement.API.genruntimeconfig.cache
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/obj/Debug/net9.0/ref/AuctionManagement.API.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Microsoft.Data.Sqlite.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/SQLitePCLRaw.batteries_v2.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/SQLitePCLRaw.core.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/runtimes/browser-wasm/nativeassets/net9.0/e_sqlite3.a
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/runtimes/linux-musl-s390x/native/libe_sqlite3.so
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/jkarunarathna/Desktop/BMS/backend/AuctionManagement.API/bin/Debug/net9.0/AuctionManagement.API.staticwebassets.runtime.json
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\appsettings.Development.json
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\appsettings.json
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\AuctionManagement.API.staticwebassets.runtime.json
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\AuctionManagement.API.staticwebassets.endpoints.json
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\AuctionManagement.API.exe
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\AuctionManagement.API.deps.json
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\AuctionManagement.API.runtimeconfig.json
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\AuctionManagement.API.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\AuctionManagement.API.pdb
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\AutoMapper.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Azure.Core.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Azure.Identity.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Humanizer.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\System.ClientModel.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\System.CodeDom.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\System.Formats.Asn1.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\System.Memory.Data.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\System.Text.Json.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\obj\Debug\net9.0\AuctionManagement.API.csproj.AssemblyReference.cache
+D:\Auction Management\backend\backend\AuctionManagement.API\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Auction Management\backend\backend\AuctionManagement.API\obj\Debug\net9.0\AuctionManagement.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Auction Management\backend\backend\AuctionManagement.API\obj\Debug\net9.0\AuctionManagement.API.AssemblyInfoInputs.cache
+D:\Auction Management\backend\backend\AuctionManagement.API\obj\Debug\net9.0\AuctionManagement.API.AssemblyInfo.cs
+D:\Auction Management\backend\backend\AuctionManagement.API\obj\Debug\net9.0\AuctionManagement.API.csproj.CoreCompileInputs.cache
+D:\Auction Management\backend\backend\AuctionManagement.API\obj\Debug\net9.0\AuctionManagement.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Auction Management\backend\backend\AuctionManagement.API\obj\Debug\net9.0\AuctionManagement.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Auction Management\backend\backend\AuctionManagement.API\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Auction Management\backend\backend\AuctionManagement.API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Auction Management\backend\backend\AuctionManagement.API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Auction Management\backend\backend\AuctionManagement.API\obj\Debug\net9.0\scopedcss\bundle\AuctionManagement.API.styles.css
+D:\Auction Management\backend\backend\AuctionManagement.API\obj\Debug\net9.0\staticwebassets.build.json
+D:\Auction Management\backend\backend\AuctionManagement.API\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Auction Management\backend\backend\AuctionManagement.API\obj\Debug\net9.0\staticwebassets.development.json
+D:\Auction Management\backend\backend\AuctionManagement.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Auction Management\backend\backend\AuctionManagement.API\obj\Debug\net9.0\AuctionM.AEE33FD5.Up2Date
+D:\Auction Management\backend\backend\AuctionManagement.API\obj\Debug\net9.0\AuctionManagement.API.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\obj\Debug\net9.0\refint\AuctionManagement.API.dll
+D:\Auction Management\backend\backend\AuctionManagement.API\obj\Debug\net9.0\AuctionManagement.API.pdb
+D:\Auction Management\backend\backend\AuctionManagement.API\obj\Debug\net9.0\AuctionManagement.API.genruntimeconfig.cache
+D:\Auction Management\backend\backend\AuctionManagement.API\obj\Debug\net9.0\ref\AuctionManagement.API.dll
